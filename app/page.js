@@ -182,7 +182,7 @@ export default function Home() {
             </div>
           </div>
           <Image
-            src="https://avatars.githubusercontent.com/u/111636961"
+            src="/lopa.jpg"
             alt="Mahmuda Akter Lopa profile picture"
             width={140}
             height={140}
